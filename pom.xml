@@ -49,6 +49,7 @@
       <artifactId>jakarta.validation-api</artifactId>
     </dependency>
 
+
     <!-- Spring Boot - Testes -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
