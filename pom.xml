@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.matheus</groupId>
-  <artifactId>envio-email</artifactId>
+  <artifactId>envio.email</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>envio-email</name>
+  <name>envio.email</name>
   <description>API Spring Boot para envio de e-mail via formulário</description>
 
   <parent>
