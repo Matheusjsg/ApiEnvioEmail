@@ -17,4 +17,4 @@ RUN ./mvnw clean install
 EXPOSE 8080
 
 # Executa o app
-CMD ["java", "-jar", "target/envio-email-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/envio.email-0.0.1-SNAPSHOT.jar"]
