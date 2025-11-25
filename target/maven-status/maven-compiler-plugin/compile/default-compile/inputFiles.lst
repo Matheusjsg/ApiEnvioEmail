@@ -2,3 +2,4 @@
 /home/usuario/Área de trabalho/API EMAIL/src/main/java/com/example/demo/EmailApplication.java
 /home/usuario/Área de trabalho/API EMAIL/src/main/java/com/example/demo/Service/ContatoDTO.java
 /home/usuario/Área de trabalho/API EMAIL/src/main/java/com/example/demo/Service/JavamailSender.java
+/home/usuario/Área de trabalho/API EMAIL/src/main/java/com/example/demo/config/WebConfig.java

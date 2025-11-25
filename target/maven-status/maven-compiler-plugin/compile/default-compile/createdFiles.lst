@@ -1,4 +1,6 @@
 com/example/demo/Service/JavamailSender.class
+com/example/demo/config/WebConfig.class
+com/example/demo/config/WebConfig$1.class
+com/example/demo/Controller/ContatoController.class
 com/example/demo/Service/ContatoDTO.class
 com/example/demo/EmailApplication.class
-com/example/demo/Controller/ContatoController.class
